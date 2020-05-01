@@ -6,7 +6,7 @@ on the [php-yandex-taxi-api](https://github.com/i-pinchuk/php-yandex-taxi-api) p
 
 You can use [Composer](https://getcomposer.org)
 ```bash
-$ composer require ipinchuk/php-yandex-taxi-api
+$ composer require ipinchuk/laravel-yandex-taxi-api
 ```
 or download from [GitHub](https://github.com/i-pinchuk/laravel-yandex-taxi-api)
 
