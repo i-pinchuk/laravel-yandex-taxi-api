@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.0.0",
         "illuminate/support": "^5.0|^6.0|^7.0|^8.0",
-        "ipinchuk/php-yandex-taxi-api": "^1.0"
+        "ipinchuk/php-yandex-taxi-api": "^1.1"
     },
     "autoload": {
         "psr-4": {
